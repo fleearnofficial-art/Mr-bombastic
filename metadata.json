@@ -1,0 +1,7 @@
+{
+  "name": "Fleearn",
+  "description": "3D Earning Ecosystem with User (Fleearn), Publisher (FleConsole), Moderator (FleUra), and Admin (Fleministration) panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
